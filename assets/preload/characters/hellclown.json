@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hellclownidle"
+		},
+		{
+			"offsets": [
+				273,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hellclownleft"
+		},
+		{
+			"offsets": [
+				-177,
+				-54
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hellclowndown"
+		},
+		{
+			"offsets": [
+				200,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hellclownup"
+		},
+		{
+			"offsets": [
+				-4,
+				364
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hellclownright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "hellclownshot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hellclown",
+	"position": [
+		80,
+		-700
+	],
+	"healthbar_colors2": [
+		255,
+		255,
+		255
+	],
+	"healthicon": "hellclown",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-1000,
+		-840
+	],
+	"sing_duration": 6.2,
+	"scale": 3.5
+}

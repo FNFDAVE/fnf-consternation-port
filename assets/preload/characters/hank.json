@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-147,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hankup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hankleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hankdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-75
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hankright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				9
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "hankshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				244,
+				92
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "hankdodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				35
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hankidle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HankWimby",
+	"position": [
+		-340,
+		-90
+	],
+	"healthbar_colors2": [
+		60,
+		7,
+		76
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		7,
+		76
+	],
+	"camera_position": [
+		140,
+		0
+	],
+	"sing_duration": 4.50000000000001,
+	"scale": 1
+}

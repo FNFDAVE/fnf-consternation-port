@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spankidle"
+		},
+		{
+			"offsets": [
+				225,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spankleft"
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spankdown"
+		},
+		{
+			"offsets": [
+				-43,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spankup"
+		},
+		{
+			"offsets": [
+				166,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spankright"
+		},
+		{
+			"offsets": [
+				225,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "SpankMISSleft"
+		},
+		{
+			"offsets": [
+				-6,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "SpankMISSdown"
+		},
+		{
+			"offsets": [
+				-45,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "SpankMISSup"
+		},
+		{
+			"offsets": [
+				167,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "SpankMISSright"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFgrunt",
+	"position": [
+		0,
+		350
+	],
+	"healthbar_colors2": [
+		46,
+		7,
+		64
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		46,
+		7,
+		64
+	],
+	"camera_position": [
+		170,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
