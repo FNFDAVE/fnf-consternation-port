@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hankENTERS.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hankenter0000" x="4" y="4" width="768" height="1014" frameX="-164" frameY="0" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0001" x="776" y="4" width="674" height="1112" frameX="-413" frameY="-462" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0002" x="1454" y="4" width="798" height="708" frameX="-378" frameY="-964" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0003" x="2256" y="4" width="1577" height="1113" frameX="-96" frameY="-644" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0004" x="3837" y="4" width="1577" height="1113" frameX="-96" frameY="-644" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0005" x="5418" y="4" width="1533" height="1098" frameX="-103" frameY="-637" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0006" x="5418" y="4" width="1533" height="1098" frameX="-103" frameY="-637" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0007" x="4" y="1121" width="1533" height="1098" frameX="-103" frameY="-637" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0008" x="1541" y="1121" width="1473" height="1135" frameX="-96" frameY="-581" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0009" x="1541" y="1121" width="1473" height="1135" frameX="-96" frameY="-581" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0010" x="1541" y="1121" width="1473" height="1135" frameX="-96" frameY="-581" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0011" x="3018" y="1121" width="1580" height="1276" frameX="-72" frameY="-511" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0012" x="3018" y="1121" width="1580" height="1276" frameX="-72" frameY="-511" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0013" x="3018" y="1121" width="1580" height="1276" frameX="-72" frameY="-511" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0014" x="4602" y="1121" width="1665" height="1158" frameX="0" frameY="-592" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0015" x="4602" y="1121" width="1665" height="1158" frameX="0" frameY="-592" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0016" x="4602" y="1121" width="1665" height="1158" frameX="0" frameY="-592" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0017" x="6271" y="1121" width="1669" height="1202" frameX="-50" frameY="-548" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0018" x="6271" y="1121" width="1669" height="1202" frameX="-50" frameY="-548" frameWidth="1766" frameHeight="1787"/>
+	<SubTexture name="hankenter0019" x="6271" y="1121" width="1669" height="1202" frameX="-50" frameY="-548" frameWidth="1766" frameHeight="1787"/>
+</TextureAtlas>
